@@ -1,0 +1,8 @@
+debug.log
+node_modules
+build
+release
+npm-debug.log
+app.log
+dist
+release-builds
